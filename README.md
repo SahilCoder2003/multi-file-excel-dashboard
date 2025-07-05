@@ -33,6 +33,8 @@ This Excel-based data analysis project demonstrates how to integrate and analyze
 ## 📸 Screenshots
 ![Screenshot 2025-07-05 161917](https://github.com/user-attachments/assets/0292d327-5754-408d-926b-87fd7144ca20)
 
+## 📸 Screenshots page 2
+![Screenshot 2025-07-05 161955](https://github.com/user-attachments/assets/489a9ad9-2184-4597-a11d-c0f76c0df49f)
 
 
 ## 📌 Notes
@@ -40,6 +42,17 @@ This Excel-based data analysis project demonstrates how to integrate and analyze
 - Tables must be named and structured consistently for smooth refresh.
 
 ---
+---
+
+## 👨‍💻 Author
+
+**Sahil F.**
+
+---
+
+## 🏷️ Tags
+
+`#ExcelDashboard` `#PowerQuery` `#DataAnalysis` `#PivotTables` `#ExcelProject`
 
 
 
